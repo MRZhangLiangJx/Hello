@@ -1,6 +1,5 @@
 aaa
 bbb
-dddd
 cccccccccccccccccc
 abc
 eee
